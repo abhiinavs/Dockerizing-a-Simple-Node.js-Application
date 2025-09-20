@@ -1,0 +1,1 @@
+This project focused on containerizing a simple Node.js application using Docker. A Dockerfile was created to build the image and configure the runtime environment. The application was deployed in a container, with ports mapped to the host machine for external access.
